@@ -13,3 +13,7 @@ dados = {
     "usuario": nome,
     "idade_usuario": idade
 }
+
+
+for dado in dados:
+    print(dado)
