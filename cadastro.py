@@ -8,3 +8,8 @@ except:
         idade = int (input("Digite sua idade: "))
         if isinstance(idade, int):
             break
+
+dados = {
+    "usuario": nome,
+    "idade_usuario": idade
+}
