@@ -14,11 +14,6 @@ dados = {
     "idade_usuario": idade
 }
 
-<<<<<<< HEAD
 
 for dado in dados:
     print(dado)
-=======
-for us, i in dados.items():
-    print(us, i)
->>>>>>> master
