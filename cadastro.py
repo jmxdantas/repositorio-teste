@@ -16,4 +16,4 @@ dados = {
 
 
 for dado in dados:
-    print(dado)
+    print(dado, "\n")
